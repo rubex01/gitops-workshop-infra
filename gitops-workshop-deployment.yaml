@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: gitops-workshop-website
-        image: <add your image from you docker hub>
+        image: gitops-workshop-csharp
         ports:
         - containerPort: 80
