@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: gitops-workshop-website
-        image: moeluh1337/gitops-workshop:latest
+        image: rubex01/gitops-workshop:latest
         ports:
         - containerPort: 80
