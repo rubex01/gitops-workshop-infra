@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: gitops-workshop-website
-        image: gitops-workshop-csharp
+        image: rubex01/gitops-workshop-csharp
         ports:
         - containerPort: 80
